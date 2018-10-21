@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 好健康</title>
-    <link>http://example.org/posts/</link>
+    <link>healthyhow.github.io/posts/</link>
     <description>Recent content in Posts on 好健康</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 21 Oct 2018 10:22:06 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="healthyhow.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>第一篇文章</title>
-      <link>http://example.org/posts/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
+      <link>healthyhow.github.io/posts/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
       <pubDate>Sun, 21 Oct 2018 10:22:06 +0800</pubDate>
       
-      <guid>http://example.org/posts/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
+      <guid>healthyhow.github.io/posts/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
       <description>第一篇文章 这是第一篇文章</description>
     </item>
     
